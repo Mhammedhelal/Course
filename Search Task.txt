@@ -1,9 +1,9 @@
 git config:
-	is used to store and get user information such as username in github and email
+	is used to set and get user information such as username in github and email
 git init:
-	create a repository at your device(local repo) before creatin one on the github(remote repo).
+	create a repository at your device(local repo) before creating one on the github(remote repo).
 git merge:
 	after using (git fetch) command to download the files from the remote repo, use (git merge) to merge the files on the local repo with the fetched files.
-	(git pull) command do the roles of these two at once
+	(git pull) command do the roles of these two at once.
 git remote:
-	get the name of the remote repo (origin)
+	get the name of the remote repo (origin).
